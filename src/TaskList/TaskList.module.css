@@ -1,0 +1,14 @@
+.tasklist__group
+{
+    padding: 10px;
+    margin: auto;
+    width: 500px;
+    list-style-type: none;
+}
+
+@media only screen and (max-width: 576px)
+{
+    .tasklist__group {
+    width: 90%;
+  }
+}
